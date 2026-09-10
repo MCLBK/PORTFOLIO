@@ -12,7 +12,7 @@ const translations = {
     "hero.eyebrow": "Portfolio",
     "hero.status": "Ouvert aux opportunités",
     "hero.role": "Développeur IA ",
-    "hero.intro": "Titulaire d'une Licence Professionnelle en Intelligence Artificielle à l'IFRI, je conçois des solutions concrètes — du modèle de machine learning à l'application qui l'embarque. Machine learning, NLP, vision par ordinateur et développement full-stack.",
+    "hero.intro": "Titulaire d'une Licence Professionnelle en Intelligence Artificielle à l'IFRI, je conçois des solutions concrètes du modèle à , au besoin l'application qui l'embarque. Machine learning, NLP, vision par ordinateur et analyse de donnée et prédiction.",
     "hero.cta_projects": "Voir les projets",
     "hero.cta_contact": "Me contacter",
     "hero.cta_cv": "Télécharger mon CV",
