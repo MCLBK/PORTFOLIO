@@ -44,7 +44,7 @@ const translations = {
     "exp2.desc": "Contribution à un chatbot intelligent pour une application de mentorat ; création d'une application de traitement automatique de factures ; entraînement d'un modèle de prédiction.",
 
     "projects.page_title": "Projets",
-    "projects.intro": "Une sélection de systèmes que j'ai conçus et livrés, du prototype de recherche à l'application déployée.",
+    "projects.intro": "Une sélection de systèmes que j'ai conçus, du prototype à l'application pour certains.",
     "projects.featured": "Projets phares",
     "projects.other": "Autres réalisations",
     "projects.link_code": "Code source",
