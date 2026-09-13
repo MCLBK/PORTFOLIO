@@ -83,7 +83,7 @@ const translations = {
     "blog.page_title": "Blog",
     "blog.intro": "Des notes sur mes projets et ce que j'apprends en IA — les premiers articles arrivent bientôt.",
     "blog.empty.title": "Rien à lire ici pour l'instant",
-    "blog.empty.desc": "Cette section accueillera bientôt des retours d'expérience sur mes projets (RiceGuard, TellmE...) et des notes techniques. Revenez prochainement, ou suivez mon GitHub pour voir ce qui se prépare.",
+    "blog.empty.desc": "Cette section accueillera bientôt des retours d'expérience sur mes projets (RiceGuard ainsi que d'autres.) et des notes techniques. Revenez prochainement, ou suivez mon GitHub pour voir ce qui est en cours.",
     "blog.empty.cta": "Voir mon GitHub",
 
     "about.page_title": "À propos",
