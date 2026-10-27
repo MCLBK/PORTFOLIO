@@ -12,7 +12,7 @@ const translations = {
     "hero.eyebrow": "Portfolio",
     "hero.status": "Ouvert aux opportunités",
     "hero.role": "Développeur IA ",
-    "hero.intro": "Titulaire d'une Licence Professionnelle en Intelligence Artificielle à l'IFRI, je conçois des solutions concrètes du modèle à , au besoin l'application qui l'embarque. Machine learning, NLP, vision par ordinateur et analyse de donnée et prédiction.",
+    "hero.intro": "Titulaire d'une Licence Professionnelle en Intelligence Artificielle à l'IFRI, je conçois des solutions concrètes, du modèle à l'application qui l'embarque. Machine learning, NLP, vision par ordinateur, analyse de données et prédiction.",
     "hero.cta_projects": "Voir les projets",
     "hero.cta_contact": "Me contacter",
     "hero.cta_cv": "Télécharger mon CV",
@@ -27,6 +27,11 @@ const translations = {
     "home.projects.see_all": "Tous les projets →",
     "home.experience.title": "Expérience",
     "home.skills.title": "Compétences",
+
+    "exp0.role": "Stagiaire en développement d'agents IA",
+    "exp0.org": "PULSIA Group",
+    "exp0.when": "2026",
+    "exp0.desc": "Développement d'un agent IA dédié à la réservation de voyages.",
 
     "skills.tech": "Techniques",
     "skills.tools": "Outils",
@@ -62,6 +67,10 @@ const translations = {
     "p.tellme.role": "Assistant documentaire par recherche augmentée (RAG)",
     "p.tellme.desc": "Application de dialogue avec ses propres documents (PDF, DOCX, TXT) : les réponses citent la page source exacte. Interface en streaming mot-par-mot, architecture découplée pour brancher un backend réel sans réécrire les composants.",
 
+    "p.mef.title": "Assistant IA d'orientation",
+    "p.mef.role": "Prototype d'orientation des stagiaires (FastAPI)",
+    "p.mef.desc": "Conception d'un prototype d'orientation des candidats vers les structures pertinentes selon leur profil, avec une attention particulière à la pertinence et à la transparence des recommandations.",
+
     "p.ayestream.title": "AyeStream",
     "p.ayestream.role": "Marketplace SaaS de vente d'abonnements",
     "p.ayestream.desc": "Plateforme de vente d'abonnements streaming et outils IA, avec attribution automatique et sécurisée des comptes, paiement en ligne vérifié par signature, panneau d'administration complet.",
@@ -96,6 +105,8 @@ const translations = {
     "about.achievements": "Participations & distinctions",
     "about.interests": "Centres d'intérêt",
     "about.interests_value": "Musique, sport, lecture.",
+    "about.research": "Intérêts de recherche",
+    "about.research_value": "Machine Learning fiable, évaluation des modèles, robustesse des systèmes d'apprentissage, interprétabilité et IA responsable.",
 
     "edu1.title": "Licence Professionnelle en Intelligence Artificielle",
     "edu1.org": "Institut de Formation et de Recherche en Informatique (IFRI), Abomey-Calavi",
@@ -131,7 +142,7 @@ const translations = {
     "hero.eyebrow": "Portfolio",
     "hero.status": "Open to opportunities",
     "hero.role": "AI Developer & Software Engineer",
-    "hero.intro": "Holder of a Professional Bachelor's degree in Artificial Intelligence from IFRI, I build practical solutions — from the machine learning model to the application that ships it. Machine learning, NLP, computer vision and full-stack development.",
+    "hero.intro": "Holder of a Professional Bachelor's degree in Artificial Intelligence from IFRI, I build practical solutions — from the model to the application that ships it. Machine learning, NLP, computer vision, data analysis and prediction.",
     "hero.cta_projects": "View projects",
     "hero.cta_contact": "Get in touch",
     "hero.cta_cv": "Download my CV",
@@ -146,6 +157,11 @@ const translations = {
     "home.projects.see_all": "All projects →",
     "home.experience.title": "Experience",
     "home.skills.title": "Skills",
+
+    "exp0.role": "AI Agent Development Intern",
+    "exp0.org": "PULSIA Group",
+    "exp0.when": "2026",
+    "exp0.desc": "Developed an AI agent dedicated to travel booking.",
 
     "skills.tech": "Technical",
     "skills.tools": "Tools",
@@ -181,6 +197,10 @@ const translations = {
     "p.tellme.role": "Retrieval-augmented document assistant (RAG)",
     "p.tellme.desc": "A chat app for talking to your own documents (PDF, DOCX, TXT), with answers citing the exact source page. Word-by-word streaming interface, decoupled architecture so a real backend can be plugged in without rewriting components.",
 
+    "p.mef.title": "AI Orientation Assistant",
+    "p.mef.role": "Intern orientation prototype (FastAPI)",
+    "p.mef.desc": "Designed a prototype to guide applicants to relevant departments based on their profile, with a focus on recommendation relevance and transparency.",
+
     "p.ayestream.title": "AyeStream",
     "p.ayestream.role": "SaaS subscription marketplace",
     "p.ayestream.desc": "A marketplace for streaming and AI-tool subscriptions, with secure automatic account assignment, signature-verified online payment, and a full admin panel.",
@@ -215,6 +235,8 @@ const translations = {
     "about.achievements": "Participation & awards",
     "about.interests": "Interests",
     "about.interests_value": "Music, sport, reading.",
+    "about.research": "Research interests",
+    "about.research_value": "Reliable Machine Learning, model evaluation, robustness of learning systems, interpretability and responsible AI.",
 
     "edu1.title": "Professional Bachelor's in Artificial Intelligence",
     "edu1.org": "Institut de Formation et de Recherche en Informatique (IFRI), Abomey-Calavi",
